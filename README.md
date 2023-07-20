@@ -21,7 +21,8 @@ File-Entropy-Calculator(文件熵计算器)：一款可计算exe文件熵的工�
 python File-Entropy-Calculator.py -r xxx.exe路径
 ```
 
-![image-20230720112247302](https://img2023.cnblogs.com/blog/2411575/202307/2411575-20230720123806995-1808392558.png)
+![image](https://github.com/langsasec/File-Entropy-Calculator/assets/45072131/004edac3-3f88-46a2-8b2f-81bf86bc80f6)
+
 
 2.打包exe执行
 
@@ -29,5 +30,6 @@ python File-Entropy-Calculator.py -r xxx.exe路径
 fec.exe -r xxx.exe路径
 ```
 
-![image-20230720124000479](https://img2023.cnblogs.com/blog/2411575/202307/2411575-20230720124002094-1189098895.png)
+![image](https://github.com/langsasec/File-Entropy-Calculator/assets/45072131/a1512189-860e-465f-9a3f-517fe496e2a3)
+
 
