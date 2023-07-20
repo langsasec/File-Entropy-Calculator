@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-# File-Entropy-Calculator
-File-Entropy-Calculator(文件熵计算器)：一款可计算exe文件熵的工具。
-=======
+
 ## File-Entropy-Calculator
 
 File-Entropy-Calculator(文件熵计算器)：一款可计算exe文件熵的工具。
@@ -33,4 +30,4 @@ fec.exe -r xxx.exe路径
 ```
 
 ![image-20230720124000479](https://img2023.cnblogs.com/blog/2411575/202307/2411575-20230720124002094-1189098895.png)
->>>>>>> 588283e (Initial commit)
+
